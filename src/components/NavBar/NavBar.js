@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
 
-export default class  NavBar extends Component(){
+export default class  NavBar extends Component{
     render() {
     return (
+       
         <ul>
             <li><a href="">Home</a></li>
             <li><a href="">Music</a></li>
